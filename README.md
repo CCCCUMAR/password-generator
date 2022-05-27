@@ -2,7 +2,7 @@
 
 ## Your Task
 
-For this project, given starter code, we had to modify and create an application that lets users generate a random password based o criteria that they have selected. the entire program runs on the browser all powered by javascript
+For this project, given starter code, the goal was to modify and create an application that lets users generate a random password based on criteria that they have selected. the entire program runs on the browser all powered by javascript
 users can create pass words of up to 128 characters, with the choice of using upper/lower case letters, special character, and numbers. 
 
 
